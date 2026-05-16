@@ -11,8 +11,8 @@ This week covers classic DP formulations: interval DP (optimal play on a sequenc
 | Problem | Core Technique | Status |
 |---------|---------------|--------|
 | [Burning Coins](Burning_Coins/) | Interval DP — two-player optimal game on a coin row | Complete |
-| [Greyjoy](Greyjoy/) | Interval DP variant with different scoring | Complete |
-| [San Francisco](San_Francisco/) | DP on DAG — maximize score with limited steps | Complete |
+| [Greyjoy](Greyjoy/) | Sliding window on sequences | Incomplete |
+| [San Francisco](San_Francisco/) | DP on DAG — maximize score with limited steps | Incomplete |
 | [Severus Snape](Severus_Snape/) | DP on sequences — potion scheduling | Complete |
 | [Fighting Pits of Meereen](Fighting_Pits_of_Meereen/) | DP with circular state — fighter scheduling | Complete |
 | [Planet Express](Planet_Express/) | BFS on compressed state space | Complete |
